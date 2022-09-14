@@ -22,7 +22,7 @@ header {
 
 /* Creating Background Image of Vancouver */
 .hero {
-    background-image: url(images/vancouver.jpeg);
+    background-image: url('images/vancouver.jpeg');
     background-size:cover;
     background-position: center;
     height:500px;
